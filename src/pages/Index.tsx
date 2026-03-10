@@ -81,7 +81,7 @@ const HomePage = () => {
                 </Button>
               </Link>
               <a href="tel:+19362097110">
-                <Button size="lg" variant="outline" className="border-background/30 text-background hover:bg-background/10 dark:border-foreground/30 dark:text-foreground dark:hover:bg-foreground/10 font-body font-semibold text-base px-8">
+                <Button size="lg" variant="outline" className="border-background/30 text-black hover:bg-background/10 dark:border-foreground/30 dark:text-foreground dark:hover:bg-foreground/10 font-body font-semibold text-base px-8">
                   <Phone size={18} className="mr-2" />
                   (936) 209-7110
                 </Button>
@@ -219,7 +219,7 @@ const HomePage = () => {
                 </Button>
               </Link>
               <a href="tel:+19362097110">
-                <Button size="lg" variant="outline" className="border-background/30 text-background hover:bg-background/10 dark:border-foreground/30 dark:text-foreground dark:hover:bg-foreground/10 font-body font-semibold text-base px-10">
+                <Button size="lg" variant="outline" className="border-background/30 text-black hover:bg-background/10 dark:border-foreground/30 dark:text-foreground dark:hover:bg-foreground/10 font-body font-semibold text-base px-10">
                   <Phone size={18} className="mr-2" />
                   Call Now
                 </Button>
